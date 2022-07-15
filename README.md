@@ -7,3 +7,5 @@
 <h2>Project</h2>
 
 It's a game in which the objective is to score as many points as possible before time runs out.
+
+Download the app [here](https://play.google.com/store/apps/details?id=com.patrickmota.timefighter).
